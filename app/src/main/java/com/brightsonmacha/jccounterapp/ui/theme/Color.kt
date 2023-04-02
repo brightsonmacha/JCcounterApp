@@ -1,4 +1,4 @@
-package com.tanaplay.jccounterapp.ui.theme
+package com.brightsonmacha.jccounterapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

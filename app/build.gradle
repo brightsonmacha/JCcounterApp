@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.tanaplay.jccounterapp'
+    namespace 'com.brightsonmacha.jccounterapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.tanaplay.jccounterapp"
+        applicationId "com.brightsonmacha.jccounterapp"
         minSdk 24
         targetSdk 33
         versionCode 1

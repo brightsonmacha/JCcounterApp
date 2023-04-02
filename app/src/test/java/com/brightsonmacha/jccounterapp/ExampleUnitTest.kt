@@ -1,4 +1,4 @@
-package com.tanaplay.jccounterapp
+package com.brightsonmacha.jccounterapp
 
 import org.junit.Test
 

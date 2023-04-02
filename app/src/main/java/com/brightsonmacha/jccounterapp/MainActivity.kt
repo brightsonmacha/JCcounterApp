@@ -1,4 +1,4 @@
-package com.tanaplay.jccounterapp
+package com.brightsonmacha.jccounterapp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -19,7 +19,7 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.tanaplay.jccounterapp.ui.theme.JCcounterAppTheme
+import com.brightsonmacha.jccounterapp.ui.theme.JCcounterAppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
